@@ -1,0 +1,34 @@
+[
+   {
+      "id": 1,
+      "title": "Філадельфія хіт рол",
+      "itemsInBox": 6,
+      "weight": 180,
+      "price": 300,
+      "imgSrc": "img/roll/california-hit.jpg"
+   },
+   {
+      "id": 2,
+      "title": "Каліфорнія темпура",
+      "itemsInBox": 6,
+      "weight": 180,
+      "price": 300,
+      "imgSrc": "img/roll/california-tempura.jpg"
+   },
+   {
+      "id": 3,
+      "title": "Запечений рол Каліфорнія",
+      "itemsInBox": 6,
+      "weight": 182,
+      "price": 230,
+      "imgSrc": "img/roll/zapech-california.jpg"
+   },
+   {
+      "id": 4,
+      "title": "Філадельфія",
+      "itemsInBox": 6,
+      "weight": 230,
+      "price": 320,
+      "imgSrc": "img/roll/philadelphia.jpg"
+   }
+]
